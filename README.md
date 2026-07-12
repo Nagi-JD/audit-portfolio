@@ -32,5 +32,6 @@ EVM (Foundry) & Solana (Anchor / Rust). Every finding here is backed by a write-
 ## Contact
 
 - Cantina: **[Saturn (@Nagi97K)](https://cantina.xyz/u/Nagi97K)**
+- HackenProof: **[saturndotbash](https://hackenproof.com/hackers/saturndotbash)**
 - Discord: `saturncitizen`
 - Email: `saturnbashct@proton.me`
