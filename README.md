@@ -1,7 +1,7 @@
 # Audit Portfolio — Saturn
 
-Smart contract security research by **Saturn** (`Nagi-JD` on GitHub · `@Nagi97K` on [Cantina](https://cantina.xyz/u/Nagi97K)).
-EVM (Foundry) & Solana (Anchor / Rust). Every finding here is backed by a write-up and, where the program allows, a passing proof-of-concept.
+Security research by **Saturn** (`Nagi-JD` on GitHub · `@Nagi97K` on [Cantina](https://cantina.xyz/u/Nagi97K)).
+Smart contracts — EVM (Foundry) & Solana (Anchor / Rust) — **and Web2 application / API security**. Every finding here is backed by a write-up and, where the program allows, a passing proof-of-concept.
 
 > Private, NDA and confidential engagements are not published here — available on request.
 
