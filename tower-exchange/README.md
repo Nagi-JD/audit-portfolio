@@ -8,6 +8,8 @@
 
 ## Summary
 
+Audit by SaturnBash, Kyrixa and Teres.
+
 Black-box security assessment of the Tower Exchange platform: `tower.exchange`, the developer console, the analytics endpoints, the AI transaction services, the RPC proxies and the Arc testnet contracts. The first pass ran on 28–30 August 2026, with a verification pass on 11 September 2026.
 
 ## Findings by area
@@ -22,6 +24,6 @@ Black-box security assessment of the Tower Exchange platform: `tower.exchange`, 
 
 Tower Exchange issued a remediation and closure report on 23 November 2026 stating that all 44 tracked findings have been fixed. The fixes are reported by the team; an independent retest has not been performed yet.
 
+- [Full audit report](./TowerExchange_AUDIT.md)
 - [Security Remediation & Fix Report (PDF)](./Tower_Exchange_Security_Remediation_Fix_Report.pdf)
 
-> Exploit details and the original audit narrative are withheld; available on request.
