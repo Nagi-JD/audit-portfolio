@@ -15,7 +15,8 @@ Smart contracts — EVM (Foundry) & Solana (Anchor / Rust) — **and Web2 applic
 | 2 | [Hyperbridge](./hyperbridge) | 🟠 High | Handler storage poisoning by unprivileged EOA | Reported · PoC ✓ | [read](./hyperbridge) |
 | 3 | [ThunderPick](./thunderpick) | 🟠 High | Application-layer security flaw | ✅ Confirmed · $1,500 awarded | [read](./thunderpick) |
 | 4 | [AladdinDAO — f(x) v2](./aladdindao-fx-v2) | 🟠 High (+ 2 M, 4 L) | Maker surplus-collateral capture | Reported | [read](./aladdindao-fx-v2) |
-| 5 | OnRe *(Solana)* | — | Program owner-check weakness | 🔒 Private | details on request |
+| 5 | [Tower Exchange](./tower-exchange) | 🔴 4 Critical (+ 10 H, 18 M, 12 L) | Black-box audit: web, API, RPC, AI services, contract integration | Fixes reported by the team · retest pending | [read](./tower-exchange) |
+| 6 | OnRe *(Solana)* | — | Program owner-check weakness | 🔒 Private | details on request |
 
 ---
 
